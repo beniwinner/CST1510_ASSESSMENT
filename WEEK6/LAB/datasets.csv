@@ -1,0 +1,7 @@
+dataset,rows_loaded,rows_expected
+survey_2026,1187,1200
+sales_data,1200,1200
+customer_data,800,1200
+image_data,950,1200
+fraud_data,1300,1200
+text_data,1080,1200

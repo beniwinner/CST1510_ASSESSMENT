@@ -1,0 +1,7 @@
+dataset,rows_loaded,rows_expected,percent,status
+survey_2026,1187,1200,98.91666666666666,WARNING
+sales_data,1200,1200,100.0,OVER LIMIT
+customer_data,800,1200,66.66666666666666,OK
+image_data,950,1200,79.16666666666666,OK
+fraud_data,1300,1200,108.33333333333333,OVER LIMIT
+text_data,1080,1200,90.0,WARNING
